@@ -1,29 +1,33 @@
 
+body{
+	background-color: lightblue;
+}
+
 .title{
-        font-size: 60px;
+    font-size: 60px;
 	font-weight: bolder;
-        text-align: center;
+    text-align: center;
 	text-decoration: underline;
 	text-decoration-color: black;
 	color: black;
 }
 
 .names{
-        font-style: italic;
-        font-size: 20px;
-        text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
 	color: black;
 }
 
 h3{
-        font-size: 45px;
+    font-size: 45px;
 	font-weight: bolder;
-        text-align: left-side;
+    text-align: left-side;
 	color: black;
 }
 
 p{
    	font-size: 20px;
-        text-align: left-side;
+    text-align: left-side;
 	color: black;
 }
