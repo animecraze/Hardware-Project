@@ -1,4 +1,5 @@
 
+
 body{
 	background-color: lightblue;
 }
@@ -21,18 +22,30 @@ body{
 
 h3{
     font-size: 45px;
+	text-decoration: underline;
 	font-weight: bolder;
     text-align: left-side;
 	color: black;
 }
 
-h4{
+h4 { 
+    font-size : 35px;
+	text-align: left-side;
+	color: black;
+}
+h5{
 	font-size: 60px;
 	font-weight: bolder;
     text-align: center;
 	color: green;
 }
-
+h6 {
+	font-size : 25px;
+	text-align : center;
+}
+li {
+	font-size: 20px;
+}
 p{
    	font-size: 20px;
     text-align: left-side;
